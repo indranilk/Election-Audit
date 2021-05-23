@@ -3,6 +3,7 @@
 
 Overview
 The purpose of the project is to analyze the election results of three different counties. We calculated the percentage of votes of each county and also the county with the highest turnout. After that we used the given code to get the winner of the counties along with the number of votes and winning percentage.
+
 Election Audit Results
 •	There were 369,711 votes casted in this election
 •	Jefferson County: 10.5%, 38,855, Denver County: 82.8%, 306,555, Arapahoe County: 6.7%, 24,801
